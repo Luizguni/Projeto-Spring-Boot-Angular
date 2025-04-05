@@ -41,7 +41,7 @@ Projeto-Spring-Boot-Angular/
 - [Angular CLI](https://angular.io/cli)
 - [MySQL Server](https://dev.mysql.com/downloads/mysql/)
 
-### 🔧 Executando o Backend (Spring Boot)
+### Executando o Backend (Spring Boot)
 
 ```bash
 cd backend
@@ -51,7 +51,7 @@ cd backend
 - Verifique se o banco de dados está criado (ex: `projeto_db`)
 - Configure o `application.properties` com as credenciais corretas
 
-### 💻 Executando o Frontend (Angular)
+### Executando o Frontend (Angular)
 
 ```bash
 cd frontend
@@ -77,6 +77,6 @@ Este projeto é licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
-Desenvolvido com 💻 por **[Luizguni](https://github.com/Luizguni)**
+Desenvolvido por **[Luizguni] ([https://github.com/Luizguni](https://www.linkedin.com/in/luizguni/)**
