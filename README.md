@@ -4,7 +4,7 @@ Este projeto fullstack combina o poder do **Spring Boot** no backend com a agili
 
 ---
 
-## 📁 Estrutura do Projeto
+##  Estrutura do Projeto
 
 ```
 Projeto-Spring-Boot-Angular/
@@ -14,7 +14,7 @@ Projeto-Spring-Boot-Angular/
 
 ---
 
-## ⚙️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 ### Backend
 - Java 17+
@@ -32,7 +32,7 @@ Projeto-Spring-Boot-Angular/
 
 ---
 
-## 🚀 Como Executar o Projeto
+##  Como Executar o Projeto
 
 ### Pré-requisitos
 
@@ -63,7 +63,7 @@ ng serve
 
 ---
 
-## 📌 Funcionalidades
+## Funcionalidades
 
 - CRUD completo via REST API
 - Integração frontend ↔ backend
@@ -71,7 +71,7 @@ ng serve
 
 ---
 
-## 📝 Licença
+## Licença
 
 Este projeto é licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
 
